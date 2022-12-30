@@ -1,0 +1,170 @@
+
+Trait type: background
+{ trait: 'Blue Circle',
+  chance: '10',
+  occurrence: '11% out of 100%' }
+{ trait: 'Blue Rainbow',
+  chance: '10',
+  occurrence: '9% out of 100%' }
+{ trait: 'Blue Ring',
+  chance: '10',
+  occurrence: '11% out of 100%' }
+{ trait: 'Dark Blues',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Green Refraction',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Orange Refraction',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Pinky Refraction',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Purple Refraction',
+  chance: '10',
+  occurrence: '9% out of 100%' }
+{ trait: 'Red Circle',
+  chance: '10',
+  occurrence: '11% out of 100%' }
+{ trait: 'Yellow Refraction',
+  chance: '10',
+  occurrence: '11% out of 100%' }
+
+Trait type: base
+{ trait: 'Black KongZ',
+  chance: '1',
+  occurrence: '1% out of 100%' }
+{ trait: 'Blue KongZ',
+  chance: '13',
+  occurrence: '14% out of 100%' }
+{ trait: 'Blue Rangers',
+  chance: '3',
+  occurrence: '3% out of 100%' }
+{ trait: 'Browns KongZ',
+  chance: '17',
+  occurrence: '14% out of 100%' }
+{ trait: 'Charcoal KongZ',
+  chance: '14',
+  occurrence: '14% out of 100%' }
+{ trait: 'Dark Grey KongZ',
+  chance: '14',
+  occurrence: '13% out of 100%' }
+{ trait: 'Green KongZ',
+  chance: '13',
+  occurrence: '12% out of 100%' }
+{ trait: 'Navy KongZ',
+  chance: '13',
+  occurrence: '14% out of 100%' }
+{ trait: 'Red Rangers',
+  chance: '3',
+  occurrence: '3% out of 100%' }
+{ trait: 'Yellow KongZ',
+  chance: '17',
+  occurrence: '15% out of 100%' }
+
+Trait type: clothes
+{ trait: 'CoK', chance: '6', occurrence: '7% out of 100%' }
+{ trait: 'Guard Uniform',
+  chance: '13',
+  occurrence: '12% out of 100%' }
+{ trait: 'NM Clothes',
+  chance: '35',
+  occurrence: '37% out of 100%' }
+{ trait: 'Piyama', chance: '10', occurrence: '9% out of 100%' }
+{ trait: 'Senshe', chance: '13', occurrence: '14% out of 100%' }
+{ trait: 'Space Moon',
+  chance: '13',
+  occurrence: '12% out of 100%' }
+{ trait: 'Tie', chance: '10', occurrence: '10% out of 100%' }
+
+Trait type: face
+{ trait: 'Attention Smile',
+  chance: '18',
+  occurrence: '17% out of 100%' }
+{ trait: 'Dismissing Smile',
+  chance: '18',
+  occurrence: '18% out of 100%' }
+{ trait: 'KO Face', chance: '6', occurrence: '5% out of 100%' }
+{ trait: 'Smile Shout',
+  chance: '20',
+  occurrence: '20% out of 100%' }
+{ trait: 'Strong Face',
+  chance: '20',
+  occurrence: '22% out of 100%' }
+{ trait: 'Surveillance Smile',
+  chance: '18',
+  occurrence: '18% out of 100%' }
+
+Trait type: glasses
+{ trait: '3D Kongz', chance: '8', occurrence: '8% out of 100%' }
+{ trait: 'Ghost Eyes',
+  chance: '8',
+  occurrence: '7% out of 100%' }
+{ trait: 'Green Eyeglasses',
+  chance: '14',
+  occurrence: '15% out of 100%' }
+{ trait: 'KongZ Robotic 101',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'NM Glasses',
+  chance: '40',
+  occurrence: '40% out of 100%' }
+{ trait: 'Rainbow KongZ',
+  chance: '6',
+  occurrence: '6% out of 100%' }
+{ trait: 'Red Eyeglasses',
+  chance: '14',
+  occurrence: '13% out of 100%' }
+
+Trait type: hat
+{ trait: 'Black Hair',
+  chance: '5',
+  occurrence: '6% out of 100%' }
+{ trait: 'Blue Hat', chance: '9', occurrence: '9% out of 100%' }
+{ trait: 'Blue Ice Hat',
+  chance: '9',
+  occurrence: '9% out of 100%' }
+{ trait: 'Cyber KongZ',
+  chance: '9',
+  occurrence: '9% out of 100%' }
+{ trait: 'Dark KongZ',
+  chance: '9',
+  occurrence: '7% out of 100%' }
+{ trait: 'Health Saviour',
+  chance: '5',
+  occurrence: '7% out of 100%' }
+{ trait: 'Island Guard',
+  chance: '1',
+  occurrence: '1% out of 100%' }
+{ trait: 'M Hat', chance: '5', occurrence: '4% out of 100%' }
+{ trait: 'NM Hat', chance: '35', occurrence: '32% out of 100%' }
+{ trait: 'Pirate Chef',
+  chance: '5',
+  occurrence: '4% out of 100%' }
+{ trait: 'Pirate King',
+  chance: '1',
+  occurrence: '1% out of 100%' }
+{ trait: 'Purple Hat',
+  chance: '5',
+  occurrence: '5% out of 100%' }
+{ trait: 'The crew', chance: '5', occurrence: '5% out of 100%' }
+{ trait: 'The KongZ', chance: '1', occurrence: '1% out of 100%' }
+{ trait: 'Yellow Hair',
+  chance: '1',
+  occurrence: '1% out of 100%' }
+
+Trait type: jwellery
+{ trait: 'Blue Ring',
+  chance: '20',
+  occurrence: '19% out of 100%' }
+{ trait: 'NM Jwellery',
+  chance: '40',
+  occurrence: '41% out of 100%' }
+{ trait: 'Red Ring',
+  chance: '20',
+  occurrence: '20% out of 100%' }
+{ trait: 'Yellow Ring',
+  chance: '20',
+  occurrence: '20% out of 100%' }
+
